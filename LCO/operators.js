@@ -20,4 +20,16 @@ console.log( dislayDiscountPercent); //// roundoff value (i.e 78)
 
 
 
-console.log( dislayDiscountPercent + " %off"); ///if want to write after value something like %off
+console.log( dislayDiscountPercent + "% off"); ///if want to write after value something like %off (i.e 78% of)
+
+///typeoff operator
+
+var result = listPrice > sellingPrice;
+console.log (typeof result);
+
+
+
+
+
+
+
