@@ -20,6 +20,8 @@ if (email || google || facebook === true ){
     console.log("login sucessfull")
 }
 
+/// with and opoerators
+
 if (email && google && facebook === true ){
     console.log("login sucessfull with and operator")
 }
