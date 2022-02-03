@@ -17,3 +17,7 @@ console.log("discount price is: " + discount); //// full value (i.e  77.86429365
 
 dislayDiscountPercent = Math.round(discount); 
 console.log( dislayDiscountPercent); //// roundoff value (i.e 78)
+
+
+
+console.log( dislayDiscountPercent + " %off"); ///if want to write after value something like %off
